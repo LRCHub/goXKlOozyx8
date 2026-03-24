@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "僕の戦争",
   "base_artist": "神聖かまってちゃん",
-  "createdAt": "2025-12-23T20:51:42.026253Z",
+  "createdAt": "2026-03-24T09:12:51.176815Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -123,6 +123,15 @@
       "artist": "神聖かまってちゃん",
       "has_synced": false,
       "path": "select/pl_01_僕の戦争_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "僕の戦争",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/localdb_01_僕の戦争_神聖かまってちゃん.txt",
+      "repo_name": "goXKlOozyx8"
     }
   ]
 }
